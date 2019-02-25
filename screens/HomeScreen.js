@@ -248,7 +248,7 @@ pageload = () => {
             style={styles.input}
           />
            <Button
-            title={'Upload new Image'}
+            title={'Upload neww Image'}
             style={styles.input}
             onPress={this.pickImage}
           />
